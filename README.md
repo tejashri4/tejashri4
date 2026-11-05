@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## 👩‍💻 About Me<br><br>- 🔭 I’m currently working on **Web Development & Python Projects**<br>- 🌱 I’m currently learning **Full Stack Development (HTML, CSS, JavaScript, Java, SQL, MongoDB)**<br>- 👯 I’m looking to collaborate on **Open Source & Real-world Projects**<br>- 🤝 I’m looking for help with **Advanced JavaScript & Backend Development**<br>- 💬 Ask me about **Python, Networking, HTML/CSS, Cybersecurity Basics**<br>- ⚡ Fun fact: **I love building creative UI designs and learning new technologies every day 🚀**
+## 👩‍💻 About Me<br><br>- 🔭 I’m currently working on **Devops concepts**<br>- 🌱 I’m currently learning **Full Stack Development (HTML, CSS, JavaScript, Java, SQL, MongoDB)**<br>- 👯 I’m looking to collaborate on **Open Source & Real-world Projects**<br>- 🤝 I’m looking for help with **Advanced JavaScript & Backend Development**<br>- 💬 Ask me about **Python, Networking, HTML/CSS, Cybersecurity Basics**<br>- ⚡ Fun fact: **I love building creative UI designs and learning new technologies every day 🚀**
 
 
 ## 🌐 Socials:
