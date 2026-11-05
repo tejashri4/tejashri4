@@ -1,3 +1,23 @@
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/6cb0e5cd-a008-4147-ba78-0023f032f0e0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 💫 About Me:
 ## 👩‍💻 About Me<br><br>- 🔭 I’m currently working on **Devops concepts**<br>- 🌱 I’m currently learning **Full Stack Development (HTML, CSS, JavaScript, Java, SQL, MongoDB)**<br>- 👯 I’m looking to collaborate on **Open Source & Real-world Projects**<br>- 🤝 I’m looking for help with **Advanced JavaScript & Backend Development**<br>- 💬 Ask me about **Python, Networking, HTML/CSS, Cybersecurity Basics, Devops , Docker, K8S , Terraform**<br>- ⚡ Fun fact: **I love building creative UI designs and learning new technologies every day 🚀**
 
